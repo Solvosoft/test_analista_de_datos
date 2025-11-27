@@ -13,4 +13,4 @@ Escriba una consulta SQL que:
 
 # Ejercicio 2: Transformación de Datos
 
-    Escriba una función en Python que tome los datos en un DataFrame (utilizando Pandas) y calcule la desviación estándar y la media de precios según cada categoría.
+Escriba una función en Python que tome los datos en un DataFrame (utilizando Pandas) y calcule la desviación estándar y la media de precios según cada categoría.
