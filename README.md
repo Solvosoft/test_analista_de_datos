@@ -10,6 +10,7 @@ Escriba una consulta SQL que:
   1. Importe los datos a una base de datos suministrada
   2. Calcule el total de ingresos por categoría para el año 2025.
   3. Devuelva los resultados ordenados por la cantidad total de ingresos en forma decreciente.
+  4. Devuelva de forma decreciente la cantidad total gastada por cada cliente.
 
 # Ejercicio 2: Transformación de Datos
 
