@@ -14,4 +14,4 @@ Escriba una consulta SQL que:
 
 # Ejercicio 2: Transformación de Datos
 
-Escriba una función en Python que tome los datos en un DataFrame (utilizando Pandas) y calcule la desviación estándar y la media de precios según cada categoría.
+Usando pandas y los archivos csv adjuntos en el repositorio, debe usar la representación de dataconfig para encontrar los ids correspondientes, estos ids representan posiciones donde se encuentran los nombres de los objetos, debe agrupar los objetos según los ids proporcionados y dar una representación donde se muestren los nombres de los objetos en las casillas respetando la estructura del data config.
