@@ -5,12 +5,11 @@ Prueba tecnica para el rol de analista de datos, buscamos un enfoque pragmático
 
 # Ejercicio 1: Crear una Consulta SQL
 
-Utilizando los datos del archivo datos.md.
+Utilizando los datos  en la base de datos de postgres provista para:
 Escriba una consulta SQL que:
-  1. Importe los datos a una base de datos suministrada
-  2. Calcule el total de ingresos por categoría para el año 2025.
-  3. Devuelva los resultados ordenados por la cantidad total de ingresos en forma decreciente.
-  4. Devuelva de forma decreciente la cantidad total gastada por cada cliente.
+  2. Usando las tablas 'public.laboratory_objectmaximumlimit' y 'public.laboratory_object' debe hacer una lista agrupada por objetos que sume las cantidades de cada objeto, debe listar el nombre del objeto, y la cantidad total del objeto.
+  3. Devuelva los resultados ordenados por la cantidad total de ingresos en forma decreciente excluyendo aquellos que su cantidad máxima sea menor que 1.
+
 
 # Ejercicio 2: Transformación de Datos
 
