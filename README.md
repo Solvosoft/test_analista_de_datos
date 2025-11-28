@@ -7,8 +7,9 @@ Prueba tecnica para el rol de analista de datos, buscamos un enfoque pragmático
 
 Utilizando los datos  en la base de datos de postgres provista para:
 Escriba una consulta SQL que:
-  2. Usando las tablas 'public.laboratory_objectmaximumlimit' y 'public.laboratory_object' debe hacer una lista agrupada por objetos que sume las cantidades de cada objeto, debe listar el nombre del objeto, y la cantidad total del objeto.
-  3. Devuelva los resultados ordenados por la cantidad total de ingresos en forma decreciente excluyendo aquellos que su cantidad máxima sea menor que 1.
+
+  1. Usando las tablas 'public.laboratory_objectmaximumlimit' y 'public.laboratory_object' debe hacer una lista agrupada por objetos que sume las cantidades de cada objeto, debe listar el nombre del objeto, y la cantidad total del objeto.
+  2. Devuelva los resultados ordenados por la cantidad total de ingresos en forma decreciente excluyendo aquellos que su cantidad máxima sea menor que 1.
 
 
 # Ejercicio 2: Transformación de Datos
